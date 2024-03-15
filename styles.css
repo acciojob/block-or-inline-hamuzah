@@ -1,2 +1,32 @@
 
 /* Your CSS Code here. */
+.b{
+	display:inline;
+}
+.d{
+	display:block;
+}
+ span.c{
+	display:inline;
+}
+.p{
+	display:block;
+}
+.input{
+	display:inline;
+}
+.ci{
+	display:inline;
+}
+.code{
+	display:inline;
+}
+.h1{
+	display:block;
+}
+.sup{
+	display:inline;
+}
+.sub{
+	display:inline;
+}
